@@ -1,5 +1,5 @@
-
-<!DOCTYPE html><html lang="ar"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-578d4fe4-b420-4fb6-a35e-d34525ee5a4a@mhtml.blink" />
+<html lang="ar">
+	<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-578d4fe4-b420-4fb6-a35e-d34525ee5a4a@mhtml.blink" />
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>الموقع الرسمي لشركة وتساب</title>
@@ -454,6 +454,4 @@ Content-Location: https://cdn.glitch.global/7f5ab3af-5b1e-4df2-a515-239ff7e3a7e2
     });
   </script>
     
-    
-  </script>
 </body></html>
